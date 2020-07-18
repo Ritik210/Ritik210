@@ -1,4 +1,4 @@
-# Ritik Agarwal 🙂
+#Ritik Agarwal 🙂
 
 <!--
 **Ritik210/Ritik210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
