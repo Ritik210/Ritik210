@@ -2,8 +2,6 @@
 
 Unity Game Developer | Game Programmer | Freelancer
 
-![](https://github-readme-stats.vercel.app/api?username=Ritik210&show_icons=true&line_height=30)
-
 ## 🧐About me
 
 I am a CS undergrad pursuing my Bachelor's degree from University of Petroleum & Energy Studies. I am a Unity Game Developer.
