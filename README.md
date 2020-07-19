@@ -4,6 +4,8 @@ Unity Game Developer | Game Programmer | Freelancer
 
 ![](https://github-readme-stats.vercel.app/api?username=Ritik210&show_icons=true&line_height=30)
 
+## 🧐About me
+
 
 <!--
 **Ritik210/Ritik210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
