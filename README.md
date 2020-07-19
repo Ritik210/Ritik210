@@ -6,6 +6,7 @@ Unity Game Developer | Game Programmer | Freelancer
 
 ## 🧐About me
 
+I am a CS undergrad
 
 <!--
 **Ritik210/Ritik210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
