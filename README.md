@@ -8,6 +8,8 @@ Unity Game Developer | Game Programmer | Freelancer
 
 I am a CS undergrad pursuing my Bachelor's degree from University of Petroleum & Energy Studies. I am a Unity Game Developer. I have developed both 2D and 3D platform games in Unity.
 
+## ⚡Skills :desktop_computer: :keyboard:
+
 <!--
 **Ritik210/Ritik210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
