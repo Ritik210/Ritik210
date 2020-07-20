@@ -10,6 +10,8 @@ I am a CS undergrad pursuing my Bachelor's degree from University of Petroleum &
 
 ## ⚡Skills :desktop_computer: :keyboard:
 
+* Unity
+
 <!--
 **Ritik210/Ritik210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
