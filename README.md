@@ -12,6 +12,7 @@ I am a CS undergrad pursuing my Bachelor's degree from University of Petroleum &
 
 * Unity 3D/2D
 * C#
+* C++
 
 <!--
 **Ritik210/Ritik210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
