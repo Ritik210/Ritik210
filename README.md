@@ -14,6 +14,7 @@ I am a CS undergrad pursuing my Bachelor's degree from University of Petroleum &
 * C#
 * C++
 * HTML
+* CSS
 
 ## 💻You can find me on:
 
