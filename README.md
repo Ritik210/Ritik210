@@ -24,6 +24,9 @@ I am a CS undergrad pursuing my Bachelor's degree from University of Petroleum &
 <a href = "mailto: hritikagarwal50@gmail.com">
   <img align="left" width="50px" src="https://img.icons8.com/plasticine/2x/gmail.png" />
 </a>
+<a href="https://www.youtube.com/watch?v=dXM8TOrxYUg&list=PLRAs4cbD68uxF9zwSN5rWaIeZKj3oFMO0">
+  <img align="left" width="50px" src="https://img.icons8.com/fluent/48/000000/youtube-play.png" />
+</a>
 
 
 
