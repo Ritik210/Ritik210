@@ -21,6 +21,10 @@ I am a CS undergrad pursuing my Bachelor's degree from University of Petroleum &
   <img align="left" width="50px" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" />
 </a>
 
+<a href = "mailto: hritikagarwal50@gmail.com">
+  <img align="left" width="50px" src="https://img.icons8.com/plasticine/2x/gmail.png" />
+</a>
+
 
 
 <!--
