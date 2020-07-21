@@ -17,7 +17,7 @@ I am a CS undergrad pursuing my Bachelor's degree from University of Petroleum &
 
 ## 💻You can find me on:
 
-* LinkedIn: *[Ritik Agarwal](https://www.linkedin.com/in/ritik-agarwal-860203191/)*
+
 
 <!--
 **Ritik210/Ritik210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
