@@ -15,6 +15,8 @@ I am a CS undergrad pursuing my Bachelor's degree from University of Petroleum &
 * C++
 * HTML
 
+## 💻You can find me on:
+
 <!--
 **Ritik210/Ritik210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
