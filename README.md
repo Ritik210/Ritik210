@@ -17,6 +17,10 @@ I am a CS undergrad pursuing my Bachelor's degree from University of Petroleum &
 
 ## 💻You can find me on:
 
+<a href="https://www.linkedin.com/in/ritik-agarwal-860203191/">
+  <img align="left" width="50px" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" />
+</a>
+
 
 
 <!--
