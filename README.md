@@ -6,7 +6,11 @@ Unity Game Developer | Game Programmer | Freelancer
 
 ## 🧐About me
 
-I am a CS undergrad pursuing my Bachelor's degree from University of Petroleum & Energy Studies. I am a Unity Game Developer. I have developed both 2D and 3D platform games in Unity.
+Game Developer with 5+ years in Unity and C#, developing online slot games alongside mobile, VR/AR and educational titles.
+Develops games from GDD to release: gameplay and feature logic, animation and audio integration, REST API and backend service
+integration, UI flows and data-driven configuration. Collaborates with art, animation, game mathematics, QA and client teams
+throughout development. Builds reusable tools and maintainable architectures that speed up development, mentors team
+members, and has a record of delivering ahead of schedule.
 
 ## ⚡Skills :desktop_computer: :keyboard:
 
